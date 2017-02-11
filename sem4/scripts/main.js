@@ -16,11 +16,11 @@ $(document).ready(function() {
 	$("#myModal").modal({backdrop: true}); // Pop Up Window
 
 	// For Footer Include
-	$(".footer").load("pages/important/footer.html");
+	$(".footer").load("sem4/pages/important/footer.html");
 	
 	// For Different Header Include
-	$(".include-navbar-common").load("pages/important/navbar-common.html");
-	$(".include-navbar-subject").load("pages/important/navbar-subject.html");
+	$(".include-navbar-common").load("sem4/pages/important/navbar-common.html");
+	$(".include-navbar-subject").load("sem4/pages/important/navbar-subject.html");
 	$(".include-navbar-coding").load("codereaping/pages/important/navbar.html");
 
 	// for Spy Navbar
